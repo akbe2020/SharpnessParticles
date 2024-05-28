@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "id": "sharpness-particles",
+  "id": "sharpness-particles-refurbished",
   "version": "${version}",
-  "name": "Sharpness Particles",
+  "name": "Sharpness Particles Refurbished",
   "description": "Always hit with enchanted particles!",
   "authors": [
-    "Noryea"
+    "Noryea", "four4tReS"
   ],
   "contact": {
-    "homepage": "https://space.bilibili.com/12873326",
-    "sources": "https://github.com/Noryea/SharpnessParticles",
-    "issues": "https://github.com/Noryea/SharpnessParticles/issues"
+    "homepage": "https://github.com/akbe2020/SharpnessParticles",
+    "sources": "https://github.com/akbe2020/SharpnessParticles",
+    "issues": "https://github.com/akbe2020/SharpnessParticles/issues"
   },
 
-  "license": "CC0-1.0",
+  "license": "MIT",
   "environment": "client",
   "mixins": [
     "sharpnessparticles.mixins.json"
@@ -24,7 +24,7 @@
     ]
   },
   "depends": {
-    "fabricloader": ">=0.11.3",
+    "fabricloader": ">=0.15.11",
     "fabric-events-interaction-v0": "*"
   }
 }
