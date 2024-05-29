@@ -1,6 +1,6 @@
 # What is this?
 
-A refurbished mod for 1.20+ that allows you to always hit entities with enchanted particles and modify the amount of the particles.
+A refurbished mod for 1.19.3+ that allows you to always hit entities with enchanted particles and modify the amount of the particles.
 
 [Original for older versions](https://github.com/Noryea/SharpnessParticles)
 
